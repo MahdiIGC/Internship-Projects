@@ -1,0 +1,47 @@
+!----------------------------------------------------------
+!   DASSAULT SYSTEMES  -  V5 ENVIRONMENT FILE
+!----------------------------------------------------------
+! MODE : User
+! TYPE : CATIA_P3
+! TMSTMP : 1682318220
+! ARGS : -icon yes -menu yes -desktop no -cs CATIA_P3 -a user 
+!----------------------------------------------------------
+
+CATInstallPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64;D:\B28\win_b64;D:\TPS\win_b64
+CATDLLPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\code\bin;D:\B28\win_b64\code\bin;D:\TPS\win_b64\code\bin
+CATICPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\code\productIC;D:\B28\win_b64\code\productIC;D:\TPS\win_b64\code\productIC
+CATCommandPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\code\command;D:\B28\win_b64\code\command;D:\TPS\win_b64\code\command
+CATDictionaryPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\code\dictionary;D:\B28\win_b64\code\dictionary;D:\TPS\win_b64\code\dictionary
+CATDocView=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\doc;D:\B28\win_b64\doc;D:\TPS\win_b64\doc
+CATReffilesPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\reffiles;D:\B28\win_b64\reffiles;D:\TPS\win_b64\reffiles
+CATFontPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\fonts;D:\B28\win_b64\resources\fonts;D:\TPS\win_b64\resources\fonts
+CATGalaxyPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\galaxy;D:\B28\win_b64\resources\galaxy;D:\TPS\win_b64\resources\galaxy
+CATGraphicPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\graphic;D:\B28\win_b64\resources\graphic;D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\graphic\icons;D:\B28\win_b64\resources\graphic\icons;D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\graphic\figures;D:\B28\win_b64\resources\graphic\figures;D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\graphic\splashscreens;D:\B28\win_b64\resources\graphic\splashscreens;D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\graphic\symbols;D:\B28\win_b64\resources\graphic\symbols;D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\graphic\textures;D:\B28\win_b64\resources\graphic\textures;D:\TPS\win_b64\resources\graphic;D:\TPS\win_b64\resources\graphic\icons;D:\TPS\win_b64\resources\graphic\figures;D:\TPS\win_b64\resources\graphic\splashscreens;D:\TPS\win_b64\resources\graphic\symbols;D:\TPS\win_b64\resources\graphic\textures
+CATMsgCatalogPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\msgcatalog;D:\B28\win_b64\resources\msgcatalog;D:\TPS\win_b64\resources\msgcatalog
+CATFeatureCatalogPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\featurecatalog;D:\B28\win_b64\resources\featurecatalog;D:\TPS\win_b64\resources\featurecatalog
+CATDefaultCollectionStandard=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\standard;D:\B28\win_b64\resources\standard;D:\TPS\win_b64\resources\standard
+CATKnowledgePath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\resources\knowledge;D:\B28\win_b64\resources\knowledge;D:\TPS\win_b64\resources\knowledge
+CATStartupPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\startup;D:\B28\win_b64\startup;D:\TPS\win_b64\startup
+CATW3ResourcesPath=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\docs;D:\B28\win_b64\docs;D:\TPS\win_b64\docs
+CATReconcilePath=
+CATReferenceSettingPath=D:\B28\CATEnv\CATRef
+CATUserSettingPath=D:\B28\CATEnv\B22SET
+CATCollectionStandard=D:\B28\CATEnv\CATStd
+CATTemp=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp
+CATMetasearchPath=DSKEY_TMPDIR
+CATW3PublishPath=DSKEY_TMPDIR
+CATSharedWorkbookPath=DSKEY_TMPDIR
+CATErrorLog=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp\error.log
+CATReport=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATReport
+CATDisciplinePath=
+USER_HOME=CSIDL_PERSONAL
+JAVA_HOME=%JAVA_HOME%
+CLASSPATH_JDBC=
+CLASSPATH=%CLASSPATH_JDBC%;%CLASSPATH%
+PATH=D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\code\bin;D:\B28\win_b64\code\bin;D:\Siemens\TCIC_V5\bin\CAA\V5R28\win_b64\code\command;D:\B28\win_b64\code\command;D:\TPS\win_b64\code\bin;D:\TPS\win_b64\code\command;%JAVA_HOME%\bin;%PATH%
+CATNoStartDocument=no
+CNEXTBACKGROUND=no
+CNEXTSPLASHSCREEN=no
+FORCE_SYNCHRO_ON_OPEN=1
+SYNCHRO_REPAIR_ON_OPEN=1
+CheryUDFTuJiaoCao=D:\TPS\UDF\TuJiaoCao.CATPart

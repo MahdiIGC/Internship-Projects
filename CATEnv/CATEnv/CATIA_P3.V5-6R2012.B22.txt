@@ -1,0 +1,41 @@
+!----------------------------------------------------------
+!   DASSAULT SYSTEMES  -  V5 ENVIRONMENT FILE
+!----------------------------------------------------------
+! MODE : Global
+! TYPE : CATIA_P3
+! TMSTMP : 1405493705
+! ARGS : -cs CATIA_P3 -a global -icon yes -menu yes -tools 
+!----------------------------------------------------------
+
+CATInstallPath=D:\B22\win_b64
+CATDLLPath=D:\B22\win_b64\code\bin
+CATICPath=D:\B22\win_b64\code\productIC
+CATCommandPath=D:\B22\win_b64\code\command
+CATDictionaryPath=D:\B22\win_b64\code\dictionary
+CATDocView=D:\B22\win_b64\doc
+CATReffilesPath=D:\B22\win_b64\reffiles
+CATFontPath=D:\B22\win_b64\resources\fonts
+CATGalaxyPath=D:\B22\win_b64\resources\galaxy
+CATGraphicPath=D:\B22\win_b64\resources\graphic;D:\B22\win_b64\resources\graphic\icons;D:\B22\win_b64\resources\graphic\figures;D:\B22\win_b64\resources\graphic\splashscreens;D:\B22\win_b64\resources\graphic\symbols;D:\B22\win_b64\resources\graphic\textures
+CATMsgCatalogPath=D:\B22\win_b64\resources\msgcatalog
+CATFeatureCatalogPath=D:\B22\win_b64\resources\featurecatalog
+CATDefaultCollectionStandard=D:\B22\win_b64\resources\standard
+CATKnowledgePath=D:\B22\win_b64\resources\knowledge
+CATStartupPath=D:\B22\win_b64\startup
+CATW3ResourcesPath=D:\B22\win_b64\docs
+CATReconcilePath=
+CATReferenceSettingPath=D:\B22\CATEnv\CATRef
+CATUserSettingPath=D:\B22\CATEnv\B22SET
+CATCollectionStandard=D:\B22\CATEnv\CATStd
+CATTemp=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp
+CATMetasearchPath=DSKEY_TMPDIR
+CATW3PublishPath=DSKEY_TMPDIR
+CATSharedWorkbookPath=DSKEY_TMPDIR
+CATErrorLog=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp\error.log
+CATReport=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATReport
+CATDisciplinePath=
+USER_HOME=CSIDL_PERSONAL
+JAVA_HOME=%JAVA_HOME%
+CLASSPATH_JDBC=
+CLASSPATH=%CLASSPATH_JDBC%;%CLASSPATH%
+PATH=D:\B22\win_b64\code\bin;D:\B22\win_b64\code\command;%JAVA_HOME%\bin;%PATH%
